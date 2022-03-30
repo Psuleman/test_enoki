@@ -43,7 +43,7 @@ les liens des deux api sont sur la page d'accueil du projet.
 Les deux api sont accéssible pour les utilisateurs authentifiés.
 
 "http://localhost:8000/api/reponse-user/"
-Pour que l'utilisateur puisse répondre aux questions
+Pour que l'utilisateur puisse répondre aux questions, méthode POST
 
 "http://localhost:8000/api/note/" qui affiche si une question a eu la bonne réponse.
 pour l'api note, ça ne renvoi pas vraiment ce qui a été demandé, je me suis documenté. je sais comment je vais procéder mais ça me revoi une erreur que je cherche à comment y remédier. La raison où je ne mis la réponse actuelle.
